@@ -10,5 +10,4 @@ Hola, I'm Rohit Kumar 👋
 - ⚡ Fun fact: Chai tastes way better than Coffee | Change my mind!
 
 
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rohit1507 &theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rohit1507)
