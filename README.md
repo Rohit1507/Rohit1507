@@ -8,3 +8,7 @@ Hola, I'm Rohit Kumar 👋
 - 📫 How to reach me: gmail:- [rohit1507199@gmail.com](rohit1507199@gmail.com)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Chai tastes way better than Coffee | Change my mind!
+
+
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rohit1507 &theme=radical)
