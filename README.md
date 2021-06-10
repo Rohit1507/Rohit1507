@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **React, node & express**
 
-- 📫 How to reach me **Gmail : rohit15071999@gmail.com, github: https://github.com/Rohit1507**
+- 📫 How to reach me **Gmail : rohit15071999@gmail.com, linkedin : www.linkedin.com/in/rohit-kumar--**
 
 - ⚡ Fun fact **Chai tastes way better than Coffee | Change my mind!**
 
